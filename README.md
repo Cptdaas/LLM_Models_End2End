@@ -26,4 +26,4 @@ To install the required dependencies, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/llm-gen-ai-tutorial.git
+   [git clone https://github.com/your-username/llm-gen-ai-tutorial.git](https://github.com/Cptdaas/LLM_Models_infoEndtoEnd.git)https://github.com/Cptdaas/LLM_Models_infoEndtoEnd.git
